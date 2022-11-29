@@ -1,2 +1,2 @@
 Caso ajude...
-![](Layout_Simulacao.jpeg)
+![](Layout_Simulacao.jpg)
